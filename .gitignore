@@ -1,4 +1,4 @@
-/download.jpg
-/script.js
-/styles.css
-/tttt
+.vercel
+node_modules
+.DS_Store
+Thumbs.db
